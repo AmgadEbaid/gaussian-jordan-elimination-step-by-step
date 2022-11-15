@@ -1,0 +1,44 @@
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.exe
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.deps.json
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.runtimeconfig.json
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.pdb
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.AssemblyReference.cache
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear_equation_gui.Form1.resources
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.GenerateResource.cache
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.AssemblyInfoInputs.cache
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.AssemblyInfo.cs
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.CoreCompileInputs.cache
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.CopyComplete
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\refint\linear equation gui.dll
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.pdb
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.genruntimeconfig.cache
+C:\Users\Amgad\source\repos\linear equation gui\linear equation gui\obj\Debug\net6.0-windows\ref\linear equation gui.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.exe
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\Accord.dll.config
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.deps.json
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.runtimeconfig.json
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\linear equation gui.pdb
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\Accord.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\Accord.Math.Core.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\bin\Debug\net6.0-windows\Accord.Math.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.AssemblyReference.cache
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear_equation_gui.Form1.resources
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.GenerateResource.cache
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.AssemblyInfoInputs.cache
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.AssemblyInfo.cs
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.CoreCompileInputs.cache
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.csproj.CopyComplete
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\refint\linear equation gui.dll
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.pdb
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\linear equation gui.genruntimeconfig.cache
+C:\Users\Amgad\Downloads\linear-proj-main\linear-proj-main\linear equation gui\obj\Debug\net6.0-windows\ref\linear equation gui.dll
